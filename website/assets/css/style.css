@@ -71,3 +71,29 @@ body {
     background: #616161;
   }
   
+-------------------------------------------------------
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #c2e405;
+    line-height: 1.5;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 20px;
+  }
+  
+  header h1 {
+    color
